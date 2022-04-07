@@ -2,7 +2,7 @@ from django.db import models
 
 
 # Create your models here.
-
+# tested only
 
 
 class Product(models.Model):
